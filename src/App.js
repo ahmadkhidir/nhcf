@@ -12,7 +12,7 @@ function App(props) {
       </picture>
       <section className='button'>
         <p>This event requires you to pre-register</p>
-        <a href="" target={"_blank"}>Start Registration</a>
+        <a href="https://forms.office.com/r/bmatb9hsVj">Start Registration</a>
       </section>
     </main>
   )
